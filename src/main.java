@@ -6,6 +6,7 @@ public class main {
 		System.out.println("hej");
 		
 		int a = 10;
+		int b = 11;
 		System.out.println(a);
 	}
 
